@@ -1,0 +1,486 @@
+# Created by Polycam
+# object name: textured
+newmtl textured_0
+Ka 0.000 0.000 0.000
+Kd 0.560784 0.52549 0.439216
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_1
+Ka 0.000 0.000 0.000
+Kd 0.560784 0.52549 0.439216
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_2
+Ka 0.000 0.000 0.000
+Kd 0.52549 0.54902 0.611765
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_3
+Ka 0.000 0.000 0.000
+Kd 0.560784 0.52549 0.439216
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_4
+Ka 0.000 0.000 0.000
+Kd 0.560784 0.52549 0.439216
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_5
+Ka 0.000 0.000 0.000
+Kd 0.560784 0.52549 0.439216
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_6
+Ka 0.000 0.000 0.000
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+d 0.4
+illum 1
+Ns 1.000000
+newmtl textured_7
+Ka 0.000 0.000 0.000
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+d 0.4
+illum 1
+Ns 1.000000
+newmtl textured_8
+Ka 0.000 0.000 0.000
+Kd 0.6 0.6 0.6
+Ks 0 0 0
+d 0.4
+illum 1
+Ns 1.000000
+newmtl textured_9
+Ka 0.000 0.000 0.000
+Kd 0.964706 0.972549 0.945098
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_10
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_11
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_12
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_13
+Ka 0.000 0.000 0.000
+Kd 0.929412 0.937255 0.901961
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_14
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_15
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_16
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_17
+Ka 0.000 0.000 0.000
+Kd 0.831373 0.843137 0.815686
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_18
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_19
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_20
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_21
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_22
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_23
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_24
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_25
+Ka 0.000 0.000 0.000
+Kd 0.788235 0.784314 0.752941
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_26
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_27
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_28
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_29
+Ka 0.000 0.000 0.000
+Kd 0.788235 0.784314 0.752941
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_30
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_31
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_32
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_33
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_34
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_35
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_36
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_37
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_38
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_39
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_40
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_41
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_42
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_43
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_44
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_45
+Ka 0.000 0.000 0.000
+Kd 0.92549 0.92549 0.909804
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_46
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_47
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_48
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_49
+Ka 0.000 0.000 0.000
+Kd 0.52549 0.564706 0.607843
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_50
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_51
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_52
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_53
+Ka 0.000 0.000 0.000
+Kd 0.92549 0.92549 0.909804
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_54
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_55
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_56
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_57
+Ka 0.000 0.000 0.000
+Kd 0.92549 0.92549 0.909804
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_58
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_59
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_60
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_61
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_62
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_63
+Ka 0.000 0.000 0.000
+Kd 0.92549 0.92549 0.909804
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_64
+Ka 0.000 0.000 0.000
+Kd 0.635294 0.6 0.52549
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_65
+Ka 0.000 0.000 0.000
+Kd 0.95 0.9 0.85
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_66
+Ka 0.000 0.000 0.000
+Kd 1 0.996078 0.976471
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
+newmtl textured_67
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Tr 0.000000
+illum 1
+Ns 1.000000
+map_Kd textured_0_3yM1J7SY.jpg
+newmtl textured_68
+Ka 0.000 0.000 0.000
+Kd 0.855 0.796 0.729
+Ks 0 0 0
+d 1
+illum 1
+Ns 1.000000
